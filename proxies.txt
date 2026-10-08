@@ -1,0 +1,15 @@
+# HTTP ip:port from http.txt — public lists often dead
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-178.171.19.82:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-89.37.191.189:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-94.190.251.156:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-208.66.95.125:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-74.205.245.67:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-89.37.128.28:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-208.66.93.81:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-180.94.216.111:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-161.123.198.169:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-91.232.139.61:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-103.228.200.74:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-188.211.254.60:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-93.115.155.244:gykkp0zmvezu
+brd.superproxy.io:44445:brd-customer-hl_65d62570-zone-datacenter_proxy1-ip-161.123.149.126:gykkp0zmvezu
